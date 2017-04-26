@@ -1,0 +1,16 @@
+﻿What can STEGANOGRAPHY be used for?
+...................................
+There are a number of uses for steganography besides the
+ mere novelty. One of the most widely used applications is
+  for so-called digital watermarking. A watermark, historically,
+   is the replication of an image, logo, or text on paper stock
+    so that the source of the document can be at least partially
+     authenticated. A digital watermark can accomplish the same
+      function; a graphic artist, for example, might post sample
+       images on her Web site complete with an embedded signature
+        so that she can later prove her ownership in case others
+         attempt to portray her work as their own.
+
+Stego can also be used to allow communication within an underground community.
+ There are several reports, for example, of persecuted religious minorities using
+  steganography to embed messages for the group within images that are posted to known Web sites.

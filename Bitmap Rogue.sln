@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapRogue", "BmpRogue\BitmapRogue.csproj", "{C810AAEB-0FDA-4EA6-9191-950C8F73E32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapRogueClient", "BmpRogueClient\BitmapRogueClient.csproj", "{C7C5E7BF-1284-4600-9E4F-12A5FB95A80A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.fridge.dk:8080/tfs/qua
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BmpRogue\\BitmapRogue.csproj
+		SccProjectName1 = BmpRogue
+		SccLocalPath1 = BmpRogue
+		SccProjectUniqueName2 = BmpRogueClient\\BitmapRogueClient.csproj
+		SccProjectName2 = BmpRogueClient
+		SccLocalPath2 = BmpRogueClient
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C810AAEB-0FDA-4EA6-9191-950C8F73E32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C810AAEB-0FDA-4EA6-9191-950C8F73E32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C810AAEB-0FDA-4EA6-9191-950C8F73E32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C810AAEB-0FDA-4EA6-9191-950C8F73E32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C5E7BF-1284-4600-9E4F-12A5FB95A80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C5E7BF-1284-4600-9E4F-12A5FB95A80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C5E7BF-1284-4600-9E4F-12A5FB95A80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C5E7BF-1284-4600-9E4F-12A5FB95A80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
